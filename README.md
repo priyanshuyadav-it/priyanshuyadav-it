@@ -52,7 +52,7 @@ Dashboard created using React and Firebase.
 
  📫 Connect with Me
 
-📧 Email: your-email@gmail.com
+📧 Email: ypriyanshu0510@gmail.com
 
 🌐 GitHub: https://github.com/priyanshuyadav-it
 
