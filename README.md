@@ -26,18 +26,18 @@
 
 ---
 
- 📌 Featured Projects
+## 📌 Featured Projects
 
- 🛒 CodeVector Backend API
+### 🛒 CodeVector Backend API
 REST API built using Node.js, Express.js and MongoDB.
 
- 🏪 Stationary Shop App
+### 🏪 Stationary Shop App
 Android application developed using Kotlin and Jetpack Compose.
 
- 🎵 VSC Spotify Clone
+### 🎵 VSC Spotify Clone
 Music player application built with Kotlin.
 
- 📢 Smart Advertisement Dashboard
+### 📢 Smart Advertisement Dashboard
 Dashboard created using React and Firebase.
 
 ---
@@ -53,8 +53,8 @@ Dashboard created using React and Firebase.
  📫 Connect with Me
 
 📧 Email: ypriyanshu0510@gmail.com
-
 🌐 GitHub: https://github.com/priyanshuyadav-it
+🔗 LinkedIn: [Priyanshu Yadav](https://www.linkedin.com/in/priyanshu-yadav-752a22388/)
 
 ---
 
