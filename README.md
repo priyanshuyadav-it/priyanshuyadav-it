@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Yadav
 
-<!--
-**priyanshuyadav-it/priyanshuyadav-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc IT Student from Mumbai, India
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning MERN Stack and Backend Development
+
+🚀 Passionate about Web Development, Android Development, and Problem Solving
+
+---
+
+🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+- MongoDB
+- Node.js
+- Express.js
+- Kotlin
+- Git & GitHub
+
+---
+
+ 📌 Featured Projects
+
+ 🛒 CodeVector Backend API
+REST API built using Node.js, Express.js and MongoDB.
+
+ 🏪 Stationary Shop App
+Android application developed using Kotlin and Jetpack Compose.
+
+ 🎵 VSC Spotify Clone
+Music player application built with Kotlin.
+
+ 📢 Smart Advertisement Dashboard
+Dashboard created using React and Firebase.
+
+---
+
+🌱 Currently Learning
+
+- MERN Stack
+- Backend Development
+- Data Structures and Algorithms
+
+---
+
+ 📫 Connect with Me
+
+📧 Email: your-email@gmail.com
+
+🌐 GitHub: https://github.com/priyanshuyadav-it
+
+---
+
+⭐ Always eager to learn new technologies and build impactful projects.
